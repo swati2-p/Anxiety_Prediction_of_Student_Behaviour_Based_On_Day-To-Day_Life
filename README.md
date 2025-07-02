@@ -1,17 +1,13 @@
 # Anxiety Prediction of Student Behaviour Based On Day-To-Day Life
 
-This project predicts student anxiety using machine learning based on day-to-day lifestyle data.
-
-## Files
-- `university-anxiety111.ipynb`: Jupyter notebook
-- `bangladesh_anxiety.csv`: Dataset
-- `report.pdf`, `IEEE-paper.docx`: Report files
-# Anxiety Prediction of Student Behaviour Based On Day-To-Day Life
 
 This project aims to predict anxiety levels among university students using a machine learning approach based on lifestyle and demographic data. The goal is to assist educational institutions and mental health professionals in identifying at-risk students through behavioral analysis.
 
 ---
-
+## Files
+- `university-anxiety111.ipynb`: Jupyter notebook
+- `bangladesh_anxiety.csv`: Dataset
+- `report.pdf`, `IEEE-paper.docx`: Report files
 ## 📊 Dataset Information
 
 - **Source**: Bangladesh student mental health survey
