@@ -1,4 +1,4 @@
-# Anxiety Prediction of Student Behaviour Based On Day-To-Day Life
+# Anxiety Prediction of Student Behaviour Based On Day-To-Dayhhhhh
 
 
 This project aims to predict anxiety levels among university students using a machine learning approach based on lifestyle and demographic data. The goal is to assist educational institutions and mental health professionals in identifying at-risk students through behavioral analysis.
